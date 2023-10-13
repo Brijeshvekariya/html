@@ -1,0 +1,69 @@
+HTML :- Hyper Text Markup Language
+--> It is used to build a structure of HTML
+
+website:-
+
+It is collection of webpages which gives information
+
+www :- World Wide Web --> Global Server
+
+HTTP/s :- Hyper Text Transfer Protocol/secure
+
+URL :- Uniform Resource Locator
+
+Domain :- .com/.in/.edu/.gov/.info/.blogspot
+
+HTML is a markup Language and not a programming Language
+
+Markup Language :-
+
+1. It does not show any error
+2. it is not case sensitive language
+3. It consists of tags and attributes
+
+<> start tags
+</> end tags
+
+structure of HTML:
+
+<HTML>
+<HEAD>
+    <TITLE></TITLE>
+</HEAD>
+<BODY>
+    tags and attributes
+</BODY>
+</HTML>
+
+br, hr, img are self closing tags
+
+heading tags : h1,h2,h3,h4,h5,h6
+paragraph tag : p
+bold tag : b , strong
+italic tag : i , em
+underline tag : u , ins
+highlight tag : mark
+marquee tag : for scrolling text : <marquee direction="left">Brijesh</marquee>
+small tag : small
+subscript tag : sub
+superscript tag : sup
+strikethrough tag : s, strike ,del  --> offer: 50% off
+line break tag : br
+horizontal line tag : hr
+ordered list tag : ol
+unordered list tag : ul
+list item tag : li
+link tag : a href="url" target="_blank" rel=”nofollow” : to open in new tab : <a target="blank" href="https://www.amazon.com/">Amazon</a>
+image tag : img src="url" alt="description" height="" width=""
+center|justify" valign="top|middle|bottom" bgcolor="#ffffff"
+th(header cell)tag : th rowspan="number_of_rows" colspan="number_of_columns" scope="col|colgroup|
+row" align="left|right|center|justify" valign="top|middle|bottom" bgcolor="#ffffff"
+form tag : form action="/yourpage.html" method="get/post" name="name" id="id"
+input type="text/password/radio/checkbox/submit/reset/hidden"/>
+
+Table : 
+
+table tag : table border = "0", cellpadding ="0", cellspacing="0">
+tr (table row) tag : tr align="left|right|center|justify" valign="top|middle|bottom" bgcolor="#ffffff"
+th tag : table heading
+td(table data cell)tag : td rowspan="number_of_rows" colspan="number_of_columns" align="left|right|
