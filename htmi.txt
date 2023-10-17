@@ -67,3 +67,29 @@ table tag : table border = "0", cellpadding ="0", cellspacing="0">
 tr (table row) tag : tr align="left|right|center|justify" valign="top|middle|bottom" bgcolor="#ffffff"
 th tag : table heading
 td(table data cell)tag : td rowspan="number_of_rows" colspan="number_of_columns" align="left|right|
+
+
+Form : 
+
+action : the next page
+
+method : get or post
+
+input type = email
+input type = password
+input type = date
+input type = datetime-local
+input type = color
+input type = number
+input type = tel
+input type = radio  --> in radio type we have to set name same for so that multiple radio button can get
+input type = checkbox  --> to select multiple options
+input type  =file
+input type  = button 
+input type  = submit --> by default submit button
+input type  = button  --> by default reset button
+
+
+
+
+selec tag : to make list of options
